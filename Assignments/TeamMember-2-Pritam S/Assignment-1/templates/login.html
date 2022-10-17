@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Login</title>
+    <style>
+        body{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        form{
+            height: 400px;
+            width: 400px;
+            border: 2px solid black;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+    </style>
+</head>
+<body>
+    <form action="http://127.0.0.1:5000/login" method="post">
+        <p><b>LOGIN</b></p>
+        <span>User Name: </span>
+        <span><input type="text" name="username" id="username"></span>
+        <br>
+        <span>Email: </span>
+        <span><input type="text" name="email" id="email"></span>
+        <br>
+        <span>Phone Number: </span>
+        <span><input type="text" name="phonenumber" id="phonenumber"></span>
+        <br>
+        <span><input type="submit" value="submit"></span>
+    </form>
+</body>
+</html>

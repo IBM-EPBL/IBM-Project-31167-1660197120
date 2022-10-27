@@ -1,0 +1,17 @@
+body {
+    background-color: #C66549;
+}
+
+.main-container h1 {
+    color: #fff;
+    margin: 0 auto;
+    text-align: center;
+    margin: 3rem;
+    font-family: 'Kaushan Script', cursive;
+}
+
+.main-container img {
+    border-radius: 20px;
+    border: 4px solid #fff;
+    margin-bottom: 30px;
+}

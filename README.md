@@ -2,11 +2,10 @@
 
 Team ID : PNT2022TMID09298
 
-Team Leader : Mohamed Rafi
-Team member : Praghadiesh S
-Team member : Pritam
-Team member : Rohit Krishna S
-
+Team Leader: Mohamed Rafi  
+Team Member 1: Praghadiesh S  
+Team Member 2: Pritam S  
+Team Member 3: Rohit Krishna S  
 
 # Personal Expense Tracker Application
 
@@ -32,13 +31,12 @@ Personal finance applications will ask users to add their expenses and based on 
 ![problem solution fit](https://user-images.githubusercontent.com/85453650/202851686-17f7f76c-a995-4ccb-bb96-440741a2fed5.jpg))
 
 ### Solution Architecture
-![image](https://user-images.githubusercontent.com/85453650/202851781-1424c412-6408-4d3b-bc48-3a90f970718c.png)
+![Solution Architecture](https://user-images.githubusercontent.com/85453650/202856909-73ca8331-55ee-412d-bb6e-5691bc64c37e.png)
 
 ## Project Design Phase II
 
 ### Customer Journey Map 
-[note: please download file to view clearly as there is some quality issues]
-![WhatsApp Image 2022-10-17 at 12 26 51](https://user-images.githubusercontent.com/69385943/196110775-754e635e-cf7b-42fd-b879-5ec248f8b014.jpg)
+![Customer Journey Map](https://user-images.githubusercontent.com/69385943/196110775-754e635e-cf7b-42fd-b879-5ec248f8b014.jpg)
 
 ### Technology Architecture
-![image](https://user-images.githubusercontent.com/85453650/202851805-b8c44855-6961-487f-a090-6f2740596593.png)
+![Technology Architecture](https://user-images.githubusercontent.com/85453650/202856945-2bd0c1ed-7cf2-4b2f-85a5-81a149ea342c.png)
